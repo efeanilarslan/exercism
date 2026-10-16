@@ -34,13 +34,6 @@ swift test
 
 ---
 
-## 🎯 Yaklaşım ve Mühendislik İlkeleri
-
-- **Test Odaklı Geliştirme (TDD):** Tüm çözümler Exercism'in sağladığı kapsamlı birim testleri (unit tests) başarıyla geçecek şekilde optimize edilmiştir.
-- **İdiomatik ve Temiz Kod:** Kodların sadece çalışması değil; ilgili programlama dilinin tasarım ilkelerine, adlandırma kurallarına ve en iyi pratiklerine (best practices) uygun olması hedeflenmiştir.
-- **Sürekli Genişleme:** Platform üzerinde yeni diller (Python, C, Rust vb.) çözüldükçe egzersizler otomatik olarak bu depoda dizinlenmektedir.
-
----
 
 ## 📜 Lisans
 
