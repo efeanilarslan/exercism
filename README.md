@@ -5,6 +5,7 @@
 [![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 Bu depo; [Exercism.org](https://exercism.org) platformunda algoritmik düşünme, temiz kod (clean code) ve dil idiomlarını pekiştirmek amacıyla çözdüğüm kodlama egzersizlerini ve test odaklı (TDD) çözümlerimi içermektedir.
+Exercism profilim : https://exercism.org/profiles/efemelis12
 
 ---
 
